@@ -480,6 +480,8 @@ About Page
 /* Historiqe section */
 .img-border {
     position: relative;
+    bottom: 1.5rem;
+    right: 1.5rem;
     height: 100%;
     min-height: 400px;
 }
@@ -488,8 +490,8 @@ About Page
     content: "";
     top: 0;
     left: 0;
-    right: 3rem;
-    bottom: 3rem;
+    right: -2.5rem;
+    bottom: -2.5rem;
     border: 5px solid #067593;
     border-radius: 6px;
 }
